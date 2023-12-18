@@ -1,0 +1,8 @@
+Hands-On Exercise Instructions
+Fork this repository - https://github.com/SenpaiKames/github-hands-on
+After forking, clone the repository to local computer
+Create a text file “lastname.txt” and add a sentence on what you learned today
+Stage and commit your changes with message “Created lastname file”
+Push to remote repository
+Use “git remote add upstream” to sync fork with upstream repository
+Create a pull request in remote repository to be merged to upstream repository
